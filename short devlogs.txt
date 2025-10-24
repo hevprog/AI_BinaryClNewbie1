@@ -1,0 +1,27 @@
+The motive of this AI model is to be able to recognize the letters and patterns given any text to be able to create
+the word apple. This model uses the binary classification model to be able to recognize such letters.
+Given the basic design of this model and training data, there should be limitations on this model should be behaving and its
+guesses.
+
+==Logs==
+
+Diri adi perfect na AI model kay kulang kulang pa hiya hin training data para ma challenge hiya.
+
+nakaka demotivating sa first kay nag try to understand and brute force ako ha mga issues and bugs related sa sigmoid() na function
+and an AI aspects like an pag develop an mga features and label was very problematic... na postpone it development
+
+after some new attempts , more resources and time I slowly understand and at least familiar it foundation an kanan Machine learning.
+
+
+Main resources---------
+	adi an mga beginnger friendly resources para maka familiar hin terms, definitions, an mga aspect and pag describe an models na focus la ako sa binary classification model kay nagka idea lang ako para iton.
+
+specific resources-----------
+	Damo adto mga resources an akon gin explore from the past like sa merriam webster and youtube. Adi na mga resources an kanan na remember, na aid adi para maka atleast mayda ako idea ano tak gin hihino.
+
+
+supplementary resources----------
+	mga resources na napapagaan.
+
+Engagement material----------
+	for Motivation aid and reality check.

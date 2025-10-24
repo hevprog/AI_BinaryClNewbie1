@@ -1,0 +1,24 @@
+#main resources ---------------------------------------------------------------------
+https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/
+
+https://learn.microsoft.com/en-us/training/modules/fundamentals-machine-learning/5-binary-classification?pivots=text
+
+#specific resources -----------------------------------------------------------------
+https://www.kaggle.com/code/ryanholbrook/a-single-neuron
+https://en.wikipedia.org/wiki/Logistic_regression
+https://en.wikipedia.org/wiki/Sigmoid_function
+https://www.geeksforgeeks.org/machine-learning/ml-one-hot-encoding/
+
+https://www.google.com/search?q=how+to+convert+a+string+to+a+numerical+data+to+be+feed+into+a+algorithim+in+Machine+learning%3F&sca_esv=c3fe999626797709&ei=06r5aO61DOyo0-kPhsDXmQI&ved=0ahUKEwiu69T2ubmQAxVs1DQHHQbgNSMQ4dUDCBE&oq=how+to+convert+a+string+to+a+numerical+data+to+be+feed+into+a+algorithim+in+Machine+learning%3F&gs_lp=Egxnd3Mtd2l6LXNlcnAiXWhvdyB0byBjb252ZXJ0IGEgc3RyaW5nIHRvIGEgbnVtZXJpY2FsIGRhdGEgdG8gYmUgZmVlZCBpbnRvIGEgYWxnb3JpdGhpbSBpbiBNYWNoaW5lIGxlYXJuaW5nP0gAUABYAHAAeAGQAQCYAQCgAQCqAQC4AQzIAQCYAgCgAgCYAwDiAwUSATEgQJIHAKAHALIHALgHAMIHAMgHAA&sclient=gws-wiz-serp
+
+
+#suplementary resources -------------------------------------------------------------
+https://www.geeksforgeeks.org/machine-learning/supervised-machine-learning/
+https://www.simplilearn.com/10-algorithms-machine-learning-engineers-need-to-know-article
+
+#Engagement material ----------------------------------------------------------------
+https://www.youtube.com/shorts/g6Cyw3prtHY
+https://www.coursera.org/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide
+https://www.reddit.com/r/computerscience/comments/pmv9wp/i_do_not_understand_the_difference_between/
+https://youtu.be/JxdcuHXn9dc?si=GYLvFTVNi3mKwbVc
+https://youtu.be/ukzFI9rgwfU?si=4aYpEzcayDrgTslb
